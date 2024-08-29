@@ -1,0 +1,45 @@
+2024-08-29 00:55:34,594 - INFO - New users detected: {'Abhishek69', 'Vishal17', 'Rohan49', 'Ayush61', 'Daksh67', 'Kunal76', 'hardik', 'mayrah05', 'Harsh36', 'Kunal14', 'Sachin93', 'ansh', 'Sachin32'}. Restarting the recommendation engine.
+2024-08-29 00:55:34,597 - INFO - Normalized weights to sum up to 1.0: {'view_count': 0.3636363636363637, 'rating_count': 0.27272727272727276, 'upvote_count': 0.18181818181818185, 'share_count': 0.09090909090909093, 'comment_count': 0.09090909090909093}
+2024-08-29 00:55:34,605 - INFO - Recommendations complete. Sorted IDs saved to recommended_ids_by_popularity.csv
+2024-08-29 00:55:34,637 - INFO - User recommendations complete. Recommendations saved to user_recommendations.csv
+2024-08-29 00:56:04,639 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 00:56:34,645 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 00:57:04,647 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 00:57:34,650 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 00:58:04,652 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 00:58:34,655 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 00:59:04,656 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 00:59:34,658 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:00:04,664 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:00:34,669 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:01:14,848 - INFO - New users detected: {'Rohan49', 'Harsh36', 'hardik', 'Daksh67', 'Ayush61', 'Sachin93', 'mayrah05', 'Kunal76', 'ansh', 'Vishal17', 'Sachin32', 'Abhishek69', 'Kunal14'}. Restarting the recommendation engine.
+2024-08-29 01:01:14,852 - INFO - Normalized weights to sum up to 1.0: {'view_count': 0.3636363636363637, 'rating_count': 0.27272727272727276, 'upvote_count': 0.18181818181818185, 'share_count': 0.09090909090909093, 'comment_count': 0.09090909090909093}
+2024-08-29 01:01:14,859 - INFO - Recommendations complete. Sorted IDs saved to recommended_ids_by_popularity.csv
+2024-08-29 01:01:14,889 - INFO - User recommendations complete. Recommendations saved to user_recommendations.csv
+2024-08-29 01:01:44,891 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:02:14,902 - INFO - New users detected: {'aksh23'}. Restarting the recommendation engine.
+2024-08-29 01:02:14,906 - INFO - Normalized weights to sum up to 1.0: {'view_count': 0.3636363636363637, 'rating_count': 0.27272727272727276, 'upvote_count': 0.18181818181818185, 'share_count': 0.09090909090909093, 'comment_count': 0.09090909090909093}
+2024-08-29 01:02:14,913 - INFO - Recommendations complete. Sorted IDs saved to recommended_ids_by_popularity.csv
+2024-08-29 01:02:14,946 - INFO - User recommendations complete. Recommendations saved to user_recommendations.csv
+2024-08-29 01:02:44,948 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:03:14,951 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:03:44,953 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:04:14,955 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:04:44,958 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:05:14,963 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:05:44,966 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:06:14,972 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:06:44,973 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:07:14,975 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:07:39,882 - INFO - New users detected: {'Abhishek69', 'Sachin32', 'Kunal76', 'Vishal17', 'Daksh67', 'Rohan49', 'Kunal14', 'hardik', 'ansh', 'aksh23', 'Ayush61', 'mayrah05', 'Harsh36', 'Sachin93'}. Restarting the recommendation engine.
+2024-08-29 01:07:39,885 - INFO - Normalized weights to sum up to 1.0: {'view_count': 0.3636363636363637, 'rating_count': 0.27272727272727276, 'upvote_count': 0.18181818181818185, 'share_count': 0.09090909090909093, 'comment_count': 0.09090909090909093}
+2024-08-29 01:07:39,893 - INFO - Recommendations complete. Sorted IDs saved to recommended_ids_by_popularity.csv
+2024-08-29 01:07:39,996 - INFO - User recommendations complete. Recommendations saved to user_recommendations.csv
+2024-08-29 01:08:10,001 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:08:40,013 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:09:10,023 - INFO - No new users detected. No need to restart the engine.
+2024-08-29 01:09:40,038 - INFO - New users detected: {'satish'}. Restarting the recommendation engine.
+2024-08-29 01:09:40,041 - INFO - Normalized weights to sum up to 1.0: {'view_count': 0.3636363636363637, 'rating_count': 0.27272727272727276, 'upvote_count': 0.18181818181818185, 'share_count': 0.09090909090909093, 'comment_count': 0.09090909090909093}
+2024-08-29 01:09:40,046 - INFO - Recommendations complete. Sorted IDs saved to recommended_ids_by_popularity.csv
+2024-08-29 01:09:40,155 - INFO - User recommendations complete. Recommendations saved to user_recommendations.csv
+2024-08-29 01:10:10,162 - INFO - No new users detected. No need to restart the engine.
